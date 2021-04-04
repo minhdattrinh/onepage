@@ -91,6 +91,7 @@ header ul li a {
     text-decoration: none;
 }
 
+
 .content .img-box {
     width: 600px;
     display: flex;
@@ -150,8 +151,6 @@ header ul li a {
     transform: scale(0.6);
     filter: invert(1);
 }
-
-
 
 .circle {
     position: absolute;
